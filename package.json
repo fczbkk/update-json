@@ -1,0 +1,25 @@
+{
+  "name": "update-json",
+  "version": "1.0.0",
+  "description": "NodeJS module for updating JSON files.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node ./test/index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fczbkk/update-json.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Riki Fridrich <riki@fczbkk.com> (http://fczbkk.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fczbkk/update-json/issues"
+  },
+  "homepage": "https://github.com/fczbkk/update-json#readme",
+  "dependencies": {
+    "async": "^1.5.2"
+  }
+}
