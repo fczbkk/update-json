@@ -1,6 +1,6 @@
 {
   "name": "update-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS module for updating JSON files.",
   "main": "lib/index.js",
   "scripts": {
